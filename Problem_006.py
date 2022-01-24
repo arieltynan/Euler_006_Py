@@ -1,3 +1,6 @@
+# Euler Problem 006
+# Solved January 2021
+
 # Sum square difference
 
 import math
@@ -13,6 +16,6 @@ while i < 101:
 squaresum = totsum*totsum
 
 dif = squaresum - sumsquare
-print(squaresum)
-print(sumsquare)
+# print(squaresum)
+# print(sumsquare)
 print(dif)
